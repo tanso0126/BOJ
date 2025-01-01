@@ -1,2 +1,1 @@
-baekjoon id: js7777
-ONLY JS
+ONLY JS / baekjoon id: js7777
