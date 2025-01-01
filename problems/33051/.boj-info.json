@@ -5,6 +5,6 @@
     "language": 17,
     "source_path": "main.js",
     "testcase_dir": "testcases",
-    "checksum": "e3b0c44298fc1c149afbf4c8996fb924",
-    "accepted": false
+    "checksum": "0a976efe2056f56bff4e2675bf99476e",
+    "accepted": true
 }
