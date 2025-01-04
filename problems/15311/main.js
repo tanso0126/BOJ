@@ -1,0 +1,1 @@
+console.log('2000\n'+'1 '.repeat(1000)+'1000 '.repeat(1000))
