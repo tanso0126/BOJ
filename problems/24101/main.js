@@ -1,0 +1,15 @@
+console.log(`wOwO.OwO.O.w.O.
+OwO.OwOwO.O.O.O
+.O.O.O.O.w.OwO.
+O.O.O.OwO.O.O.O
+.OwO.w.O.O.w.Ow
+w.O.w.O.w.O.O.O
+.OwO.w.OwO.O.O.
+OwO.w.O.O.OwO.O
+.O.O.OwO.w.O.O.
+w.OwO.O.O.OwO.O
+.O.O.O.w.O.O.O.
+OwO.O.w.O.OwO.O
+.O.OwO.O.w.O.O.
+OwO.O.OwO.O.OwO
+.O.O.w.O.O.O.O.`)
