@@ -1,10 +1,10 @@
 {
-    "id": "24118",
-    "title": "シムロード (SimRoad) 1",
+    "id": "10802",
+    "title": "369 게임",
     "filetype": "js",
     "language": 17,
     "source_path": "main.js",
     "testcase_dir": "testcases",
-    "checksum": "940eeca59df7a225e5490353909d0255",
+    "checksum": "e3b0c44298fc1c149afbf4c8996fb924",
     "accepted": false
 }
