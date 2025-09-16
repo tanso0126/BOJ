@@ -1,0 +1,1 @@
+process.stdin.on('data',e=>console.log(+e%2?1:2))
